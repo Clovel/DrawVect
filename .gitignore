@@ -24,6 +24,8 @@ CMakeScripts/
 .vscode/
 
 # Binary files ----------------------------------
+bin/
+lib/
 
 # Doxygen related files -------------------------
 html/
